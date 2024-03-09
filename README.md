@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chido10
+- 👋 Hi, I’m Chidozie
 - 👀 I’m interested in data science and artificial intelligence
 - 🌱 I’m currently learning AWS Solution Architech Associate
 - 💞️ I’m looking to collaborate on Internet of things (IoT) and artificial Intelligence
