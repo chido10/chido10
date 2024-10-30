@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chidozie
-- 👀 I’m interested in data science and artificial intelligence
-- 🌱 I’m currently learning AWS Developer and Sysops
+- 👀 I’m interested in data science, artificial intelligence and cloud
+- 🌱 I’m currently learning Cloud
 - 💞️ I’m looking to collaborate on Internet of things (IoT) and artificial Intelligence
 - 📫 How to reach me contact me through my email
 - 😄 Pronouns: HE/HIM
