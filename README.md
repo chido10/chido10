@@ -17,8 +17,8 @@ I’m a passionate **Data Scientist**, **Machine Learning Engineer**, and **Clou
 - **Cloud & DevOps:** AWS (EC2, Lambda, S3, DynamoDB, SageMaker, ECS/ECR, CloudWatch, Elastic Beanstalk, Terraform), Azure, Docker, Kubernetes, CI/CD (GitHub Actions, AWS CodePipeline)
 - **Machine Learning & AI:** NLP, Generative AI (LLMs, prompt engineering), Neural Networks (CNN, Transformers - TensorFlow/Keras, PyTorch)
 - **Databases:** MongoDB, MySQL, PostgreSQL, Amazon Aurora, DynamoDB
-- **Visualization:** Tableau, Power BI, Plotly, Seaborn, Matplotlib
-- **Web Scraping:** BeautifulSoup, Selenium, Requests
+- **Visualization:** AWS QuickSight, Tableau, Power BI, Plotly, Seaborn, Matplotlib
+- **Web Scraping:** BeautifulSoup, Selenium, Requests, APIs
 
 ---
 
@@ -41,23 +41,41 @@ I’m a passionate **Data Scientist**, **Machine Learning Engineer**, and **Clou
 - Azure Cloud Fundamentals (AZ-900)
 - Oracle Foundation Associates
 
-[Check out all my certifications here!](https://www.credly.com/users/chidozieuzoegwu/badges)
+[Check out all my certifications here!](https://www.credly.com/users/chidozie-uzoegwu)
 
 ---
 
 ### 🚀 Recent Projects
 
+- **[Full-Stack To-Do Web App with React and AWS Amplify Gen2](https://github.com/chido10/Build-A-Full-Stack-To-Do-Web-App-with-React-and-AWS-Amplify-Gen2)**  
+  TypeScript-based starter application leveraging AWS Amplify Gen2.
+
+- **[Serverless PDF-to-Speech Converter with AWS Lambda, Textract, and Polly](https://github.com/chido10/Complete-Guide-Building-a-Serverless-PDF-to-Speech-Converter-with-AWS-Lambda-Textract-and-Polly)**  
+  Converts PDF documents to audio files using AWS serverless architecture.
+
+- **[Image and Video Labelling Generator using Amazon Rekognition](https://github.com/chido10/Build-An-Image-and-Video-Labelling-Generator-Using-Amazon-Rekognition)**  
+  Automates labeling of images and videos leveraging AWS Rekognition.
+
+- **[Food Ordering Application Using Amazon Lex](https://github.com/chido10/Build-An-Image-and-Video-Labelling-Generator-Using-Amazon-Rekognition)**  
+  Interactive chatbot-based food ordering system powered by Amazon Lex.
+
+- **[DiaBeat - Personalized Diabetic Meal Planner](https://github.com/chido10/DiaBeat---A-Personalized-Diabetic-Meal-Planner)**  
+  AI-powered meal planning app tailored for individuals managing diabetes.
+
+- **DISMANTLE-AI (Private Project)**  
+  AI-driven solution for inclusive brand auditing and bias detection developed for Brand by Me.
+
 - **[Smart Project Management Assessment System](https://github.com/chido10/Smart-Project-Management-Assessment-System)**  
-  An LLM-based app streamlining project scheduling, resource allocation, and task management using AWS and Streamlit.
+  LLM-based application for automating project scheduling, resource allocation, and task management.
 
 - **[Dynamic Web App on AWS with Terraform, Docker, ECS](https://github.com/chido10/Host-a-Dynamic-Web-App-on-AWS)**  
-  Deployed a scalable web app on AWS leveraging Terraform for infrastructure as code, Docker for containerization, and ECS for orchestration.
+  Deployed a scalable web app leveraging Terraform, Docker, and AWS ECS.
 
 - **[AWS AI Projects: Image Labels Generator, Text Narrator, Language Translation Bot](https://github.com/chido10/terraform-projects)**  
-  Developed multiple AI-driven projects utilizing Amazon Rekognition, Polly, and Lex.
+  Collection of AI-driven projects using Amazon Rekognition, Polly, and Lex.
 
 - **[Predicting Cardiovascular Diseases using ML and DL](https://www.ijsr.net/getabstract.php?paperid=SR23809044938)**  
-  Conducted comparative analysis enhancing predictive accuracy using advanced machine learning techniques.
+  Comparative study of machine learning models to predict cardiovascular diseases accurately.
 
 ---
 
@@ -74,7 +92,7 @@ I’m a passionate **Data Scientist**, **Machine Learning Engineer**, and **Clou
 ---
 
 ### ⚡ Fun Fact
-- 🎬 I am a big movie enthusiast!
+- 🎬 I am a big Movie, Soccer and Music enthusiast!
 
 ---
 
